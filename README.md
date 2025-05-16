@@ -71,8 +71,7 @@ bash
 Copy code
 your-project/
 ├── frontend/        # Frontend code (react.js)
-├── backend/         # Backend code (Node.js + Express)
-└── README.md
+├── back/         # Backend code (Node.js + Express)
 
 
 📌 Future Improvements
